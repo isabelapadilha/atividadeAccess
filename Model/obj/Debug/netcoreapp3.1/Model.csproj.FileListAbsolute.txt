@@ -1,0 +1,9 @@
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Model\obj\Debug\netcoreapp3.1\Model.pdb

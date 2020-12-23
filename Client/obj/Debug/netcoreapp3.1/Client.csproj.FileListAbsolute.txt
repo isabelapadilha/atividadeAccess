@@ -1,0 +1,16 @@
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\isabela.padilha\Desktop\MINE\AtividadeJilian\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
